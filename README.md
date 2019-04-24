@@ -9,6 +9,6 @@ Run application using
 
 Open http://localhost:8080/ in a browser.
 
-For more information regarding this application, refer to [this blog post](https://www.flowingcode.com/).
+For more information regarding this application, refer to [this blog post](https://www.flowingcode.com/2019/04/lazy-filtered-sorted-vaadin-grid.html).
 
 For more information on Vaadin, visit https://vaadin.com/.
